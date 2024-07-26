@@ -38,6 +38,7 @@ class DeveloperInLoop:
 
 # Simulate the workflow
 codebase = "example_codebase"
+# symbols are extracted from abstract syntax trees
 symbols = ["function1", "class1", "function2"]
 
 # Initialize agents for each code symbol
