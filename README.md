@@ -3,7 +3,15 @@
 A summary of the below references can be found at
 https://www.overleaf.com/read/bsvdkyxwdxrr#89bfbb
 
-## References
+# Roles Comparison
+
+| Work      | Analysis & Design | Implementation                  | Review                                     | Testing                         | Deployment                         |
+| --------- | ----------------- | ------------------------------- | ------------------------------------------ | ------------------------------- | ---------------------------------- |
+| `Chatdev` | Design            | CodingWriting & CodeCompleteAll | CodeReviewComment & CodeReviewModification | TestErrorSummary & TestErrorFix | EnviromentSetupDoc & ManualWriting |
+| `aide`    | ...               | propose change                  | ...                                        |
+| `CodeR`   | ...               | Editor                          | ...                                        |
+
+# References
 
 - D. Chen, S. Lin, M. Zeng, D. Zan, J.-G. Wang, A. Cheshkov, J. Sun, H. Yu, G. Dong, A. Aliev, J. Wang, X. Cheng, G. Liang, Y. Ma, P. Bian, T. Xie, and Q. Wang, “CodeR: Issue Resolving with Multi-Agent and Task Graphs,” 2024, publisher: arXiv Version Number: 3. [Online]. Available: https://arxiv.org/abs/2406.01304
 
