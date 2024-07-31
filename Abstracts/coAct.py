@@ -1,3 +1,8 @@
+'''
+X. Hou, M. Yang, W. Jiao, X. Wang, Z. Tu, and W. X. Zhao, “CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration,” June 2024, arXiv:2406.13381 [cs]. 
+[Online]. Available: http://arxiv.org/abs/2406.13381
+'''
+
 class GlobalPlanningAgent:
     def __init__(self, task):
         self.task = task

@@ -1,3 +1,8 @@
+'''
+S. Hong, M. Zhuge, J. Chen, X. Zheng, Y. Cheng, C. Zhang, J. Wang, Z. Wang, S. K. S. Yau, Z. Lin, L. Zhou, C. Ran, L. Xiao, C. Wu, and J. Schmidhuber, “MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework,” 2023, publisher: arXiv Version Number: 5. 
+[Online]. Available: https://arxiv.org/abs/2308.00352
+'''
+
 # Global message pool
 message_pool = []
 

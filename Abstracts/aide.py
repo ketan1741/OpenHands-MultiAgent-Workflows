@@ -1,3 +1,8 @@
+'''
+Aide’s SOTA multi-agent coding framework. 
+[Online]. Available: https://aide.dev/blog/sota-on-swe-bench-lite
+'''
+
 class CodeSymbolAgent:
     def __init__(self, symbol, codebase):
         self.symbol = symbol

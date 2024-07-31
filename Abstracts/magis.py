@@ -1,3 +1,8 @@
+'''
+W. Tao, Y. Zhou, W. Zhang, and Y.-X. Cheng, “MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution,” arXiv.org, 2024. 
+[Online]. Available: https://arxiv.org/abs/2403.17927
+'''
+
 MANAGER_PROMPT = """The task provided by the user is:
 {task}
 

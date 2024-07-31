@@ -1,3 +1,8 @@
+'''
+D. Chen, S. Lin, M. Zeng, D. Zan, J.-G. Wang, A. Cheshkov, J. Sun, H. Yu, G. Dong, A. Aliev, J. Wang, X. Cheng, G. Liang, Y. Ma, P. Bian, T. Xie, and Q. Wang, “CodeR: Issue Resolving with Multi-Agent and Task Graphs,” 2024, publisher: arXiv Version Number: 3. 
+[Online]. Available: https://arxiv.org/abs/2406.01304
+'''
+
 class Manager:
     def __init__(self, issue_description):
         self.issue_description = issue_description
