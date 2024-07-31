@@ -1,3 +1,9 @@
+'''
+Chatdev: Communicative agents for software development. 
+[Online]. Available: https://arxiv.org/abs/2307.07924. 
+GitHub: https://github.com/OpenBMB/ChatDev
+'''
+
 from abc import ABC, abstractmethod
 
 class ChatEnv():
