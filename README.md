@@ -5,11 +5,16 @@ https://www.overleaf.com/read/bsvdkyxwdxrr#89bfbb
 
 # Roles Comparison
 
-| Work      | Analysis & Design | Implementation                  | Review                                     | Testing                         | Deployment                         |
-| --------- | ----------------- | ------------------------------- | ------------------------------------------ | ------------------------------- | ---------------------------------- |
-| `Chatdev` | Design            | CodingWriting & CodeCompleteAll | CodeReviewComment & CodeReviewModification | TestErrorSummary & TestErrorFix | EnviromentSetupDoc & ManualWriting |
-| `aide`    | ...               | propose change                  | ...                                        |
-| `CodeR`   | ...               | Editor                          | ...                                        |
+| Work          | Analysis & Design                     | Implementation                  | Review                                     | Testing                         | Deployment                         |
+| ---------     | ------------------------------------- | ------------------------------- | ------------------------------------------ | ------------------------------- | ---------------------------------- |
+| `Chatdev`     | Design                                | CodingWriting & CodeCompleteAll | CodeReviewComment & CodeReviewModification | TestErrorSummary & TestErrorFix | EnviromentSetupDoc & ManualWriting |
+| `magis`       | manager                                   | developer                          | qa_engineer                                        | qa_engineer      | ....
+| `CodeR`       | Manager.create_plan                   | Editor                          | FaultLocalizer                             | Verifier                        | Manager.interpret_execution_summary|
+| `CoAct`       | GlobalPlanningAgent                   | LocalExecutionAgent             | GlobalPlanningAgent                        | LocalExecutionAgent             | GlobalPlanningAgent
+| `aide`        | understand_symbol & provide_insights  | propose change                  | ...                                        | run_tests & gather_feedback     | DeveloperInLoop                    |
+| `devOpsGPT`   | analyze_requirements, clarify_requirements, define_api, split_tasks     | generate_code  | auto_self_check     | unit_testing, integration_testing, deployment_testing |  check_working_software
+| `meta_GPT`    | product_manager, architect, project_manager | engineer                          | qa_engineer                                        |qa_engineer      | project_manager
+| `patchflows`  | ...                                   | ...                          | ...                                        |
 
 # References
 
